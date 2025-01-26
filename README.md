@@ -1,11 +1,12 @@
-Sure! Here’s the README in English, with everything in markdown format:
 
-```markdown
-# The Fight Club - E-Sports
+# The Fight Club / E-Sports
 
 This is a web project for the **The Fight Club** e-sports clan. It is built with **React** and **Vite** to provide a fast and modern experience for the clan members and supporters.
 
-![React Vite](https://vitejs.dev/logo.svg)
+<div style="display: flex; align-items: center;">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="100" style="margin-right: 20px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100"/>
+</div>
 
 ## Technologies Used
 
